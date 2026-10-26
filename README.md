@@ -8,6 +8,9 @@ The workspace supports two detection paths:
 - **Cubes** — OpenCV colour segmentation for red, green, and blue cubes.
 
 > This is a simulation-focused project. The supplied launch file starts Gazebo, controller bridges, RViz, MoveItPy, and the Panda robot. It must be reviewed and adapted before commanding physical hardware.
+<img width="945" height="529" alt="image" src="https://github.com/user-attachments/assets/f03b4dd1-e747-491d-a450-517ae8d53929" />
+<img width="945" height="529" alt="image" src="https://github.com/user-attachments/assets/352ec188-d8be-491a-a2ac-5612bcabf27f" />
+<img width="945" height="529" alt="image" src="https://github.com/user-attachments/assets/1b8207be-9a47-4680-ae65-6fe62cc6544a" />
 
 ## Features
 
